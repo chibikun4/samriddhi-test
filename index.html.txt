@@ -1,0 +1,11 @@
+<!doctype>
+<html>
+<head>
+<metacharset="utf-8">
+<meta name="auther" content ="your name">
+<title>my first page</title>
+</head>
+</body top margin=o left magin=0 >
+<H1>welcome to the site </H1>
+</body>
+</html>
